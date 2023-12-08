@@ -39,36 +39,5 @@
 <img height="40" width="70" src="https://i.ibb.co/XjsdYVx/image.png"/>
 <img height="30" width="60" src="https://i.ibb.co/8XKDFWG/image.png"/>
 <img height="30" width="60" src="https://i.ibb.co/TRcJpVy/image.png"/>
-<img height="48<p align="center">
-<img height="30" width="35" src="https://i.ibb.co/7VrnXd3/image.png"/>
-<img height="30" width="25" src="https://i.ibb.co/ygqd9jr/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/qxPhJwp/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/0rm2xFX/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/jLrZvW5/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/hBYWpw2/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/kHf95Yg/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/LZVZwC3/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/2yN0y0v/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/XjsdYVx/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/8XKDFWG/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/TRcJpVy/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/Z8TS0qD/image.png"/>
-
-</p><p align="center">
-<img height="30" width="35" src="https://i.ibb.co/7VrnXd3/image.png"/>
-<img height="30" width="25" src="https://i.ibb.co/ygqd9jr/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/qxPhJwp/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/0rm2xFX/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/jLrZvW5/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/hBYWpw2/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/kHf95Yg/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/LZVZwC3/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/2yN0y0v/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/XjsdYVx/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/8XKDFWG/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/TRcJpVy/image.png"/>
-<img height="30" width="35" src="https://i.ibb.co/Z8TS0qD/image.png"/>
-
-</p>" width="55" src="https://i.ibb.co/Z8TS0qD/image.png"/>
-
+<img height="48" width="55" src="https://i.ibb.co/Z8TS0qD/image.png"/>
 </p>
